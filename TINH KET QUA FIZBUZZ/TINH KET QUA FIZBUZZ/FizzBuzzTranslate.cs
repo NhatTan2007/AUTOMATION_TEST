@@ -16,6 +16,7 @@ namespace TINH_KET_QUA_FIZBUZZ
         {
             if (IsNumberExists(numberInput, 3)) return "Fizz";
             else if (IsNumberExists(numberInput, 5)) return "Buzz";
+            else if (IsNumberExists(numberInput, 3) && IsNumberExists(numberInput, 5)) return "FizzBuzz";
             else return $"{numberInput}";
         }
 
