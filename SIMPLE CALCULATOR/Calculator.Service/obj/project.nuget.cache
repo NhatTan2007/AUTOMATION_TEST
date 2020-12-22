@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JI4qoKFikONVKiRYSteeAgojJK8CZeUu/UjRHwA+6jgWYpzEIs5TqmOM2qghvQKllX5jNYC9HjlCU3p8N5JALg==",
+  "success": true,
+  "projectFilePath": "D:\\LEARNING\\MODULE 2\\8. AUTOMATIC TEST AND TDD\\EXERCISE\\SIMPLE CALCULATOR\\Calculator.Service\\Calculator.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nhatt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nhatt\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

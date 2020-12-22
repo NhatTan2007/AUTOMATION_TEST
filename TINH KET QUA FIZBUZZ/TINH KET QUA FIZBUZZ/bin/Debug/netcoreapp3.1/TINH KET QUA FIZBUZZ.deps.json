@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TINH KET QUA FIZBUZZ/1.0.0": {
+        "runtime": {
+          "TINH KET QUA FIZBUZZ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TINH KET QUA FIZBUZZ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

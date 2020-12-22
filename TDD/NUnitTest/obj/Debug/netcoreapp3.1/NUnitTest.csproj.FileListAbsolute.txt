@@ -1,0 +1,13 @@
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.exe
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.deps.json
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.runtimeconfig.json
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.runtimeconfig.dev.json
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.dll
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.pdb
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.csprojAssemblyReference.cache
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.AssemblyInfoInputs.cache
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.AssemblyInfo.cs
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.csproj.CoreCompileInputs.cache
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.dll
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.pdb
+D:\LEARNING\MODULE 2\8. AUTOMATIC TEST AND TDD\EXERCISE\TDD\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.genruntimeconfig.cache
